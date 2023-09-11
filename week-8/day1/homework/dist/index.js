@@ -1,5 +1,5 @@
 "use strict";
-let a = 118;
+le = 118;
 let b = "Thieves";
 let c = [true, false, false];
 let d = { age: 2 };
