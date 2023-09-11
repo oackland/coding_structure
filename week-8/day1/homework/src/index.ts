@@ -1,32 +1,31 @@
 // Homework Exercises
-/*
+
 // 1. For each of these values, what type will the TypeScript compiler infer?
 let a = 118;
 // A: is numerical so is number
 // : number
 
-let b = 'Thieves';
+let b = "Thieves";
 // A: b is a piece of text is a 'string'
 // : string
 
 let c = [true, false, false];
 // A: this is a comparison is a boolean[]
 
-let d = {age: number};
+let d = { age: 2 };
 // A:  this  an object declaration has a property for its value
 // {age:any}
 
-let e = [3]
+let e = [3];
 // A: this is an array of number  so is number[]
 // : number[]
 
 let f;
 // A: in this case is just a var  will compile as type :  any
 
-let g = []
+let g = [];
 // A: same as before is a type of any
 // : any[] = array
-*/
 
 // 2. What are the compilation errors in each of the following code snippets?
 
